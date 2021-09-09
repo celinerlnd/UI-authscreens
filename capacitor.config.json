@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "auth-screens",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
